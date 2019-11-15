@@ -1,0 +1,23 @@
+@mixin isFlex($align: center, $justify: center, $direction: row, $wrap: wrap) {
+    display: flex;
+    align-items: $align;
+    justify-content: $justify;
+    flex-direction: $direction;
+    flex-wrap: $wrap;
+}
+  
+@mixin bgImage($url, $repeat: no-repeat, $position: center, $size: initial) {
+    background-image: url($url);
+    background-repeat: $repeat;
+    background-position: $position;
+    background-size: $size;
+}
+
+@mixin section($padding) {
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: $padding 0;
+
+}
+
