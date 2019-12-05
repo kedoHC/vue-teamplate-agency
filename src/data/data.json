@@ -1,0 +1,231 @@
+
+{
+    "home": {
+        "slides": [
+            {
+                "id": 1,
+                "title": "Agency",
+                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                "bg": "slide-1.jpg",
+                "link": "projects"
+            },
+            {
+                "id": 2,
+                "title": "Projects",
+                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                "bg": "slide-2.jpg",
+                "link": "projects"
+            },
+            {
+                "id": 3,
+                "title": "Clients",
+                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                "bg": "slide-3.jpg",
+                "link": "projects"
+            },
+            {
+                "id": 4,
+                "title": "About Us",
+                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                "bg": "slide-4.jpg",
+                "link": "about"
+            },
+            {
+                "id": 5,
+                "title": "Team Work",
+                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                "bg": "slide-5.jpg",
+                "link": "projects"
+            },
+            {
+                "id": 6,
+                "title": "Blog",
+                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                "bg": "slide-6.jpg",
+                "link": "blog"
+            }
+        ],
+
+        "features": {
+            "title": "Our Features",
+            "description": "Our mission at Grand is to provide advanced and innovative web design and web development of the highest quality for all of our clients.",
+            "list": ["Good relationships with clients & employees", "Integrity in all we do to achieve full potential", "Cut expenses without sacrificing quality", "Integrating innovations into every project"]
+        },
+        "ourwork": {
+            "title": "Our Work",
+            "description": "Showcase your projects and share your achievements to attract more potential customers to your website.",
+            "slides": [
+                {
+                    "id": 1,
+                    "title": "proyecto # 1",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                    "bg": "portfolio-1.jpg",
+                    "link": "/projects"
+                },
+                {
+                    "id": 2,
+                    "title": "proyecto # 2",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                    "bg": "portfolio-2.jpg",
+                    "link": "/projects"
+                },
+                {
+                    "id": 3,
+                    "title": "proyecto # 3",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                    "bg": "portfolio-3.jpg",
+                    "link": "/projects"
+                },
+                {
+                    "id": 4,
+                    "title": "proyecto # 4",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                    "bg": "portfolio-4.jpg",
+                    "link": "/projects"
+                },
+                {
+                    "id": 5,
+                    "title": "proyecto # 5",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                    "bg": "portfolio-5.jpg",
+                    "link": "/projects"
+                },
+                {
+                    "id": 6,
+                    "title": "proyecto # 6",
+                    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum dolor possimus ipsam rem debitis quae, eos consequuntur eum minima eligendi dignissimos doloremque, sed voluptate, officia inventore vitae ut amet blanditiis?",
+                    "bg": "portfolio-6.jpg",
+                    "link": "/projects"
+                }
+            ]
+        },
+        "clients": [
+            {
+                "id": 1,
+                "title": "Design Company",
+                "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, repudiandae.",
+                "img": "company-1.png",
+                "url": "https://www.client-url.com.mx"
+            },
+            {
+                "id": 2,
+                "title": "Pacific Coast",
+                "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, repudiandae.",
+                "img": "company-2.png",
+                "url": "https://www.client-url.com.mx"
+            },
+            {
+                "id": 3,
+                "title": "Pompadour",
+                "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, repudiandae.",
+                "img": "company-3.png",
+                "url": "https://www.client-url.com.mx"
+            },
+            {
+                "id": 4,
+                "title": "Brandsign",
+                "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, repudiandae.",
+                "img": "company-4.png",
+                "url": "https://www.client-url.com.mx"
+            }
+        ],
+        "projects": [
+            {
+                "id": 1,
+                "title": "Project 1",
+                "img": "project-1.jpg",
+                "description": "Our mission at Grand is to provide advanced and innovative web design and web development of the highest quality for all of our clients.",
+                "list": [
+                    {
+                        "id": 1,
+                        "item": "Good relationships with clients & employees"
+                    },
+                    {
+                        "id": 2,
+                        "item": "Integrity in all we do to achieve full potential"
+                    },
+                    {
+                        "id": 3,
+                        "item": "Cut expenses without sacrificing quality"
+                    },
+                    {
+                        "id": 4,
+                        "item": "Integrating innovations into every project"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Project 2",
+                "img": "project-2.jpg",
+                "description": "Our mission at Grand is to provide advanced and innovative web design and web development of the highest quality for all of our clients.",
+                "list": [
+                    {
+                        "id": 1,
+                        "item": "Good relationships with clients & employees"
+                    },
+                    {
+                        "id": 2,
+                        "item": "Integrity in all we do to achieve full potential"
+                    },
+                    {
+                        "id": 3,
+                        "item": "Cut expenses without sacrificing quality"
+                    },
+                    {
+                        "id": 4,
+                        "item": "Integrating innovations into every project"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Project 3",
+                "img": "project-3.jpg",
+                "description": "Our mission at Grand is to provide advanced and innovative web design and web development of the highest quality for all of our clients.",
+                "list": [
+                    {
+                        "id": 1,
+                        "item": "Good relationships with clients & employees"
+                    },
+                    {
+                        "id": 2,
+                        "item": "Integrity in all we do to achieve full potential"
+                    },
+                    {
+                        "id": 3,
+                        "item": "Cut expenses without sacrificing quality"
+                    },
+                    {
+                        "id": 4,
+                        "item": "Integrating innovations into every project"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Project 4",
+                "img": "project-4.jpg",
+                "description": "Our mission at Grand is to provide advanced and innovative web design and web development of the highest quality for all of our clients.",
+                "list": [
+                    {
+                        "id": 1,
+                        "item": "Good relationships with clients & employees"
+                    },
+                    {
+                        "id": 2,
+                        "item": "Integrity in all we do to achieve full potential"
+                    },
+                    {
+                        "id": 3,
+                        "item": "Cut expenses without sacrificing quality"
+                    },
+                    {
+                        "id": 4,
+                        "item": "Integrating innovations into every project"
+                    }
+                ]
+            }
+        ]
+    }
+}
